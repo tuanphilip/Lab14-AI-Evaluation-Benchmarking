@@ -1,5 +1,7 @@
 # 🚀 Lab Day 14: AI Evaluation Factory (Team Edition)
 
+**Thực hiện bởi:** Vũ Tuấn Phương - 2A202600772
+
 ## 🎯 Tổng quan
 "Nếu bạn không thể đo lường nó, bạn không thể cải thiện nó." — Nhiệm vụ của nhóm bạn là xây dựng một **Hệ thống đánh giá tự động** chuyên nghiệp để benchmark AI Agent. Hệ thống này phải chứng minh được bằng con số cụ thể: Agent đang tốt ở đâu và tệ ở đâu.
 
